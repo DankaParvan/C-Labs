@@ -1,0 +1,6 @@
+﻿  Source.c
+f:\workspace\репетиторство\ученики\даниил парван\с7\с7\source.c(41): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\workspace\репетиторство\ученики\даниил парван\с7\с7\source.c(42): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\workspace\репетиторство\ученики\даниил парван\с7\с7\source.c(43): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\workspace\репетиторство\ученики\даниил парван\с7\с7\source.c(48): warning C4101: 'i': unreferenced local variable
+  С7.vcxproj -> F:\WORKSPACE\Репетиторство\Ученики\Даниил Парван\С7\Debug\С7.exe

@@ -1,0 +1,3 @@
+﻿  Source.c
+f:\workspace\репетиторство\ученики\даниил парван\c8\c8\source.c(57): warning C4013: '_getch' undefined; assuming extern returning int
+  C8.vcxproj -> F:\WORKSPACE\Репетиторство\Ученики\Даниил Парван\C8\Debug\C8.exe
